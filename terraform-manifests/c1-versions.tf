@@ -27,6 +27,7 @@ provider "azurerm" {
 }
 
 # Simple comment
+# Simple comments to test CICD 
 # QA, Stage and Prod env added
 
 
