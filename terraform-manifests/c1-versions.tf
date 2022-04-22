@@ -28,6 +28,6 @@ provider "azurerm" {
 
 # Simple comment
 # Simple comments to test CICD1 
-# QA, Stage and Prod env added successfullys
+# QA, Stage and Prod env added successfullysa
 
 
